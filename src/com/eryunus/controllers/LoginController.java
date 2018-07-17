@@ -35,5 +35,6 @@ public class LoginController implements Initializable {
         window.setTitle("Main Frame");
         window.setScene(scene);
         window.show();
+
     }
 }

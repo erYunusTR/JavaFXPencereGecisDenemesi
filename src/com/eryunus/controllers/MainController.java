@@ -29,5 +29,6 @@ public class MainController implements Initializable {
         window.setTitle("Welcome Back");
         window.setScene(scene);
         window.show();
+
     }
 }

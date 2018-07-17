@@ -24,5 +24,6 @@ public class App extends Application {
         primaryStage.setTitle("Welcome");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
+
     }
 }
